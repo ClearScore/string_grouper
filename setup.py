@@ -21,11 +21,11 @@ setup(
     url='https://github.com/Bergvca/string_grouper',
     zip_safe=False,
     python_requires='>3.7',
-    install_requires=['pandas>=0.25.3'
+    install_requires=['pandas'
                       , 'scipy'
                       , 'scikit-learn'
                       , 'numpy'
-                      , 'sparse_dot_topn_for_blocks>=0.3.1'
-                      , 'topn>=0.0.7'
+                      , 'sparse_dot_topn_for_blocks'
+                      , 'topn'
                       ]
 )
