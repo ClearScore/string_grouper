@@ -24,8 +24,8 @@ setup(
     install_requires=['pandas>=2.1.0'
                       , 'scipy>=1.11.2'
                       , 'scikit-learn>=1.3.0'
-                      , 'numpy>=1.16.6'
-                      , 'sparse_dot_topn_for_blocks>=0.3.1'
+                      , 'numpy>=1.26.4'
+                      , 'sparse_dot_topn_for_blocks>=0.3.3'
                       , 'topn>=0.0.7'
                       ]
 )
